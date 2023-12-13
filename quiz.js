@@ -109,18 +109,8 @@ let questions = [
     choice3: "Liu Zigang",
     choice4: "Elon Musk",
     answer: 4
-  },
-
-  // random trick question 
-  { 
-    question: " Are you gay?",
-    choice1: " yes, i'm gay",
-    choice2: "no, i'm gay",
-    choice3: "maybe, i'm gay",
-    choice4: "maybe not, i'm gay",
-    answer: 1
   }
-  
+
 ];
 
 //CONSTANTS
