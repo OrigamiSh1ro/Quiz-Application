@@ -109,15 +109,6 @@ let questions = [
     choice3: "Liu Zigang",
     choice4: "Elon Musk",
     answer: 4
-  },
-  
-   { 
-    question: " Are you gay?",
-    choice1: " Yes, I'm gay",
-    choice2:  "No, I'm gay",
-    choice3: "Maybe, I'm  gay",
-    choice4: "Maybe not, I'm gay",
-    answer: 1, 2, 3, 4
   }
 
 
