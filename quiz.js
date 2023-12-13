@@ -26,7 +26,7 @@ let questions = [
   //question 2
 
   { 
-    question: " what is the heaviest living organism in the world? wet",
+    question: " What is the heaviest living organism in the world? wet",
     choice1: " Blue Whale",
     choice2:  " Hippopotamus",
     choice3: "Armillaria ostoyae ",
