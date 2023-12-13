@@ -29,7 +29,7 @@ let questions = [
     question: " what is the heaviest living organism in the world? wet",
     choice1: " Blue Whale",
     choice2:  " Hippopotamus",
-    choice3: "Honey Mushroom ",
+    choice3: "Armillaria ostoyae ",
     choice4: "Pando",
     answer: 3
   },
