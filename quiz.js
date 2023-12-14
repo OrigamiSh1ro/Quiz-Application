@@ -109,9 +109,7 @@ let questions = [
     choice3: "Liu Zigang",
     choice4: "Elon Musk",
     answer: 4
-  }
-
-
+  }
 ];
 
 //CONSTANTS
